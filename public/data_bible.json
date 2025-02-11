@@ -1,0 +1,557 @@
+[
+  {
+      "id": 1,
+      "textoDelVersiculo": "El Señor te protegerá; de todo mal protegerá tu vida. El Señor te cuidará en el hogar y en el camino, desde ahora y para siempre.",
+      "citaBiblica": "Salmo 121:7-8"
+  },
+  {
+      "id": 2,
+      "textoDelVersiculo": "Así que tengan cuidado de su manera de vivir. No vivan como necios, sino como sabios, aprovechando al máximo cada momento oportuno, porque los días son malos.",
+      "citaBiblica": "Efesios 5:15-16"
+  },
+  {
+      "id": 3,
+      "textoDelVersiculo": "En el agua se refleja el rostro, y en el corazón se refleja la persona.",
+      "citaBiblica": "Proverbios 27:19"
+  },
+  {
+      "id": 4,
+      "textoDelVersiculo": "Vivimos por fe, no por vista.",
+      "citaBiblica": "2 Corintios 5:7"
+  },
+  {
+      "id": 5,
+      "textoDelVersiculo": "Hagan lo que hagan, trabajen de buena gana, como para el Señor y no como para nadie en este mundo, conscientes de que el Señor los recompensará con la herencia. Ustedes sirven a Cristo el Señor.",
+      "citaBiblica": "Colosenses 3:23-24"
+  },
+  {
+      "id": 6,
+      "textoDelVersiculo": "El que va tras la justicia y el amor halla vida, prosperidad y honra.",
+      "citaBiblica": "Proverbios 21:21"
+  },
+  {
+      "id": 7,
+      "textoDelVersiculo": "¿De qué sirve ganar el mundo entero si se pierde la vida?",
+      "citaBiblica": "Marcos 8:36"
+  },
+  {
+      "id": 8,
+      "textoDelVersiculo": "Podrán desfallecer mi cuerpo y mi espíritu, pero Dios fortalece mi corazón; él es mi herencia eterna.",
+      "citaBiblica": "Salmo 73:26"
+  },
+  {
+      "id": 9,
+      "textoDelVersiculo": "En efecto, «el que quiera amar la vida y gozar de días felices, que refrene su lengua de hablar el mal y sus labios de proferir engaños; que se aparte del mal y haga el bien; que busque la paz y la siga.»",
+      "citaBiblica": "1 Pedro 3:10-11"
+  },
+  {
+      "id": 10,
+      "textoDelVersiculo": "Todo tiene su momento oportuno; hay un tiempo para todo lo que se hace bajo el cielo.",
+      "citaBiblica": "Eclesiastés 3:1"
+  },
+  {
+      "id": 11,
+      "textoDelVersiculo": "Guíame, pues eres mi roca y mi fortaleza, dirígeme por amor a tu nombre.",
+      "citaBiblica": "Salmo 31:3"
+  },
+  {
+      "id": 12,
+      "textoDelVersiculo": "Por sobre todas las cosas cuida tu corazón, porque de él mana la vida.",
+      "citaBiblica": "Proverbios 4:23"
+  },
+  {
+      "id": 13,
+      "textoDelVersiculo": "Señor, hazme conocer tus caminos; muéstrame tus sendas.",
+      "citaBiblica": "Salmo 25:4"
+  },
+  {
+      "id": 14,
+      "textoDelVersiculo": "No se amolden al mundo actual, sino sean transformados mediante la renovación de su mente. Así podrán comprobar cuál es la voluntad de Dios, buena, agradable y perfecta.",
+      "citaBiblica": "Romanos 12:2"
+  },
+  {
+      "id": 15,
+      "textoDelVersiculo": "Yo soy el pan de vida —declaró Jesús—. El que a mí viene nunca pasará hambre, y el que en mí cree nunca más volverá a tener sed.",
+      "citaBiblica": "Juan 6:35"
+  },
+  {
+      "id": 16,
+      "textoDelVersiculo": "Guarda silencio ante el Señor, y espera en él con paciencia; no te irrites ante el éxito de otros, de los que maquinan planes malvados.",
+      "citaBiblica": "Salmo 37:7"
+  },
+  {
+      "id": 17,
+      "textoDelVersiculo": "La bondad y el amor me seguirán todos los días de mi vida; y en la casa del Señor habitaré para siempre.",
+      "citaBiblica": "Salmo 23:6"
+  },
+  {
+      "id": 18,
+      "textoDelVersiculo": "El que refrena su lengua protege su vida, pero el ligero de labios provoca su ruina.",
+      "citaBiblica": "Proverbios 13:3"
+  },
+  {
+      "id": 19,
+      "textoDelVersiculo": "Hoy te ordeno que ames al Señor tu Dios, que andes en sus caminos, y que cumplas sus mandamientos, preceptos y leyes. Así vivirás y te multiplicarás, y el Señor tu Dios te bendecirá en la tierra de la que vas a tomar posesión.",
+      "citaBiblica": "Deuteronomio 30:16"
+  },
+  {
+      "id": 20,
+      "textoDelVersiculo": "Nunca preguntes por qué todo tiempo pasado fue mejor. No es de sabios hacer tales preguntas.",
+      "citaBiblica": "Eclesiastés 7:10"
+  },
+  {
+      "id": 21,
+      "textoDelVersiculo": "De aquel que cree en mí, como dice la Escritura, brotarán ríos de agua viva.",
+      "citaBiblica": "Juan 7:38"
+  },
+  {
+      "id": 22,
+      "textoDelVersiculo": "Cuando te vengan buenos tiempos, disfrútalos; pero, cuando te lleguen los malos, piensa que unos y otros son obra de Dios, y que el hombre nunca sabe con qué habrá de encontrarse después.",
+      "citaBiblica": "Eclesiastés 7:14"
+  },
+  {
+      "id": 23,
+      "textoDelVersiculo": "El que atiende a la corrección va camino a la vida; el que la rechaza se pierde.",
+      "citaBiblica": "Proverbios 10:17"
+  },
+  {
+      "id": 24,
+      "textoDelVersiculo": "He sido crucificado con Cristo, y ya no vivo yo, sino que Cristo vive en mí. Lo que ahora vivo en el cuerpo, lo vivo por la fe en el Hijo de Dios, quien me amó y dio su vida por mí.",
+      "citaBiblica": "Gálatas 2:20"
+  },
+  {
+      "id": 25,
+      "textoDelVersiculo": "Busquen la paz con todos, y la santidad, sin la cual nadie verá al Señor.",
+      "citaBiblica": "Hebreos 12:14"
+  },
+  {
+      "id": 26,
+      "textoDelVersiculo": "¿Quién es sabio y entendido entre ustedes? Que lo demuestre con su buena conducta, mediante obras hechas con la humildad que le da su sabiduría.",
+      "citaBiblica": "Santiago 3:13"
+  },
+  {
+      "id": 27,
+      "textoDelVersiculo": "El que adquiere cordura a sí mismo se ama, y el que retiene el discernimiento prospera.",
+      "citaBiblica": "Proverbios 19:8"
+  },
+  {
+      "id": 28,
+      "textoDelVersiculo": "Encomienda al Señor tu camino; confía en él, y él actuará. Hará que tu justicia resplandezca como el alba; tu justa causa, como el sol de mediodía.",
+      "citaBiblica": "Salmo 37:5-6"
+  },
+  {
+      "id": 29,
+      "textoDelVersiculo": "Por lo tanto, no se angustien por el mañana, el cual tendrá sus propios afanes. Cada día tiene ya sus problemas.",
+      "citaBiblica": "Mateo 6:34"
+  },
+  {
+      "id": 30,
+      "textoDelVersiculo": "Porque el que quiera salvar su vida, la perderá; pero el que pierda su vida por mi causa, la encontrará.",
+      "citaBiblica": "Mateo 16:25"
+  },
+  {
+      "id": 31,
+      "textoDelVersiculo": "Que nadie te menosprecie por ser joven. Al contrario, que los creyentes vean en ti un ejemplo a seguir en la manera de hablar, en la conducta, y en amor, fe y pureza.",
+      "citaBiblica": "1 Timoteo 4:12"
+  },
+  {
+      "id": 32,
+      "textoDelVersiculo": "Háganlo todo sin quejas ni contiendas, para que sean intachables y puros, hijos de Dios sin culpa en medio de una generación torcida y depravada. En ella ustedes brillan como estrellas en el firmamento, manteniendo en alto la palabra de vida.",
+      "citaBiblica": "Filipenses 2:14-16"
+  },
+  {
+      "id": 33,
+      "textoDelVersiculo": "Este es el día en que el Señor actuó; regocijémonos y alegrémonos en él.",
+      "citaBiblica": "Salmo 118:24"
+  },
+  {
+      "id": 34,
+      "textoDelVersiculo": "El que se aferre a su propia vida, la perderá, y el que renuncie a su propia vida por mi causa, la encontrará.",
+      "citaBiblica": "Mateo 10:39"
+  },
+  {
+      "id": 35,
+      "textoDelVersiculo": "De hecho, sabemos que, si esta tienda de campaña en que vivimos se deshace, tenemos de Dios un edificio, una casa eterna en el cielo, no construida por manos humanas.",
+      "citaBiblica": "2 Corintios 5:1"
+  },
+  {
+      "id": 36,
+      "textoDelVersiculo": "Pero Dios es mi socorro; el Señor es quien me sostiene.",
+      "citaBiblica": "Salmo 54:4"
+  },
+  {
+      "id": 37,
+      "textoDelVersiculo": "Nada hay tan engañoso como el corazón. No tiene remedio. ¿Quién puede comprenderlo? «Yo, el Señor, sondeo el corazón y examino los pensamientos, para darle a cada uno según sus acciones y según el fruto de sus obras».",
+      "citaBiblica": "Jeremías 17:9-10"
+  },
+  {
+      "id": 38,
+      "textoDelVersiculo": "Hijo mío, no te olvides de mis enseñanzas; más bien, guarda en tu corazón mis mandamientos. Porque prolongarán tu vida muchos años y te traerán prosperidad.",
+      "citaBiblica": "Proverbios 3:1-2"
+  },
+  {
+      "id": 39,
+      "textoDelVersiculo": "Dios hizo todo hermoso en su momento, y puso en la mente humana el sentido del tiempo, aun cuando el hombre no alcanza a comprender la obra que Dios realiza de principio a fin.",
+      "citaBiblica": "Eclesiastés 3:11"
+  },
+  {
+      "id": 40,
+      "textoDelVersiculo": "Así manifestó Dios su amor entre nosotros: en que envió a su Hijo unigénito al mundo para que vivamos por medio de él.",
+      "citaBiblica": "1 Juan 4:9"
+  },
+  {
+      "id": 41,
+      "textoDelVersiculo": "«Todo me está permitido», pero no todo es para mi bien. «Todo me está permitido», pero no dejaré que nada me domine.",
+      "citaBiblica": "1 Corintios 6:12"
+  },
+  {
+      "id": 42,
+      "textoDelVersiculo": "Porque para mí el vivir es Cristo y el morir es ganancia.",
+      "citaBiblica": "Filipenses 1:21"
+  },
+  {
+      "id": 43,
+      "textoDelVersiculo": "Endereza las sendas por donde andas; allana todos tus caminos.",
+      "citaBiblica": "Proverbios 4:26"
+  },
+  {
+      "id": 44,
+      "textoDelVersiculo": "Dichoso el que resiste la tentación porque, al salir aprobado, recibirá la corona de la vida que Dios ha prometido a quienes lo aman.",
+      "citaBiblica": "Santiago 1:12"
+  },
+  {
+      "id": 45,
+      "textoDelVersiculo": "Por eso les digo: No se preocupen por su vida, qué comerán o beberán; ni por su cuerpo, cómo se vestirán. ¿No tiene la vida más valor que la comida, y el cuerpo más que la ropa?",
+      "citaBiblica": "Mateo 6:25"
+  },
+  {
+      "id": 46,
+      "textoDelVersiculo": "La esperanza frustrada aflige al corazón; el deseo cumplido es un árbol de vida.",
+      "citaBiblica": "Proverbios 13:12"
+  },
+  {
+      "id": 47,
+      "textoDelVersiculo": "Jamás me olvidaré de tus preceptos, pues con ellos me has dado vida.",
+      "citaBiblica": "Salmo 119:93"
+  },
+  {
+      "id": 48,
+      "textoDelVersiculo": "Yo soy el camino, la verdad y la vida —le contestó Jesús—. Nadie llega al Padre sino por mí.",
+      "citaBiblica": "Juan 14:6"
+  },
+  {
+      "id": 49,
+      "textoDelVersiculo": "Yo sé que nada hay mejor para el hombre que alegrarse y hacer el bien mientras viva; y sé también que es un don de Dios que el hombre coma o beba y disfrute de todos sus afanes.",
+      "citaBiblica": "Eclesiastés 3:12-13"
+  },
+  {
+      "id": 50,
+      "textoDelVersiculo": "Si el Espíritu nos da vida, andemos guiados por el Espíritu.",
+      "citaBiblica": "Gálatas 5:25"
+  },
+  {
+      "id": 51,
+      "textoDelVersiculo": "Si vivimos, para el Señor vivimos; y, si morimos, para el Señor morimos. Así pues, sea que vivamos o que muramos, del Señor somos.",
+      "citaBiblica": "Romanos 14:8"
+  },
+  {
+      "id": 52,
+      "textoDelVersiculo": "Dichosos más bien —contestó Jesús— los que oyen la palabra de Dios y la obedecen.",
+      "citaBiblica": "Lucas 11:28"
+  },
+  {
+      "id": 53,
+      "textoDelVersiculo": "Tu amor es mejor que la vida; por eso mis labios te alabarán. Te bendeciré mientras viva, y alzando mis manos te invocaré.",
+      "citaBiblica": "Salmo 63:3-4"
+  },
+  {
+      "id": 54,
+      "textoDelVersiculo": "Ustedes son la luz del mundo. Una ciudad en lo alto de una colina no puede esconderse.",
+      "citaBiblica": "Mateo 5:14"
+  },
+  {
+      "id": 55,
+      "textoDelVersiculo": "Pues así como en Adán todos mueren, también en Cristo todos volverán a vivir.",
+      "citaBiblica": "1 Corintios 15:22"
+  },
+  {
+      "id": 56,
+      "textoDelVersiculo": "Me has dado a conocer la senda de la vida; me llenarás de alegría en tu presencia, y de dicha eterna a tu derecha.",
+      "citaBiblica": "Salmo 16:11"
+  },
+  {
+      "id": 57,
+      "textoDelVersiculo": "El ladrón no viene más que a robar, matar y destruir; yo he venido para que tengan vida, y la tengan en abundancia.",
+      "citaBiblica": "Juan 10:10"
+  },
+  {
+    "id": 58,
+    "textoDelVersiculo": "El ladrón no viene más que a robar, matar y destruir; yo he venido para que tengan vida, y la tengan en abundancia.",
+    "citaBiblica": "Juan 10:10"
+},
+{
+    "id": 59,
+    "textoDelVersiculo": "La mentalidad pecaminosa es muerte, mientras que la mentalidad que proviene del Espíritu es vida y paz.",
+    "citaBiblica": "Romanos 8:6"
+},
+{
+    "id": 60,
+    "textoDelVersiculo": "Si es posible, y en cuanto dependa de ustedes, vivan en paz con todos.",
+    "citaBiblica": "Romanos 12:18"
+},
+{
+    "id": 61,
+    "textoDelVersiculo": "Si alguien reconoce que Jesús es el Hijo de Dios, Dios permanece en él, y él en Dios.",
+    "citaBiblica": "1 Juan 4:15"
+},
+{
+    "id": 62,
+    "textoDelVersiculo": "Hay caminos que al hombre le parecen rectos, pero que acaban por ser caminos de muerte.",
+    "citaBiblica": "Proverbios 14:12"
+},
+{
+    "id": 63,
+    "textoDelVersiculo": "En conclusión, ya sea que coman o beban o hagan cualquier otra cosa, háganlo todo para la gloria de Dios.",
+    "citaBiblica": "1 Corintios 10:31"
+},
+{
+    "id": 64,
+    "textoDelVersiculo": "Así también la fe por sí sola, si no tiene obras, está muerta.",
+    "citaBiblica": "Santiago 2:17"
+},
+{
+    "id": 65,
+    "textoDelVersiculo": "Acuérdate de tu creador en los días de tu juventud, antes que lleguen los días malos y vengan los años en que digas: «No encuentro en ellos placer alguno».",
+    "citaBiblica": "Eclesiastés 12:1"
+},
+{
+    "id": 66,
+    "textoDelVersiculo": "Quien se conduce con integridad anda seguro; quien anda en malos pasos será descubierto.",
+    "citaBiblica": "Proverbios 10:9"
+},
+{
+    "id": 67,
+    "textoDelVersiculo": "Cristo nos libertó para que vivamos en libertad. Por lo tanto, manténganse firmes y no se sometan nuevamente al yugo de esclavitud.",
+    "citaBiblica": "Gálatas 5:1"
+},
+{
+    "id": 68,
+    "textoDelVersiculo": "¿Acaso no saben que su cuerpo es templo del Espíritu Santo, quien está en ustedes y al que han recibido de parte de Dios? Ustedes no son sus propios dueños; fueron comprados por un precio. Por tanto, honren con su cuerpo a Dios.",
+    "citaBiblica": "1 Corintios 6:19-20"
+},
+{
+    "id": 69,
+    "textoDelVersiculo": "“Puesto que en él vivimos, nos movemos y existimos”. Como algunos de sus propios poetas griegos han dicho: “De él somos descendientes”.",
+    "citaBiblica": "Hechos 17:28"
+},
+{
+    "id": 70,
+    "textoDelVersiculo": "Sé lo que es vivir en la pobreza, y lo que es vivir en la abundancia. He aprendido a vivir en todas y cada una de las circunstancias, tanto a quedar saciado como a pasar hambre, a tener de sobra como a sufrir escasez.",
+    "citaBiblica": "Filipenses 4:12"
+},
+{
+    "id": 71,
+    "textoDelVersiculo": "Pues aunque vivimos en el mundo, no libramos batallas como lo hace el mundo.",
+    "citaBiblica": "2 Corintios 10:3"
+},
+{
+    "id": 72,
+    "textoDelVersiculo": "Escucha, hijo mío, acoge mis palabras, y los años de tu vida aumentarán.",
+    "citaBiblica": "Proverbios 4:10"
+},
+{
+    "id": 73,
+    "textoDelVersiculo": "El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios, no tiene la vida.",
+    "citaBiblica": "1 Juan 5:12"
+},
+{
+    "id": 74,
+    "textoDelVersiculo": "¿De qué sirve ganar el mundo entero si se pierde la vida? ¿O qué se puede dar a cambio de la vida?",
+    "citaBiblica": "Mateo 16:26"
+},
+{
+    "id": 75,
+    "textoDelVersiculo": "Para nosotros no hay más que un solo Dios, el Padre, de quien todo procede y para el cual vivimos; y no hay más que un solo Señor, es decir, Jesucristo, por quien todo existe y por medio del cual vivimos.",
+    "citaBiblica": "1 Corintios 8:6"
+},
+{
+    "id": 76,
+    "textoDelVersiculo": "Toda la Escritura es inspirada por Dios y útil para enseñar, para reprender, para corregir y para instruir en la justicia, a fin de que el siervo de Dios esté enteramente capacitado para toda buena obra.",
+    "citaBiblica": "2 Timoteo 3:16-17"
+},
+{
+    "id": 77,
+    "textoDelVersiculo": "Y, si el Espíritu de aquel que levantó a Jesús de entre los muertos vive en ustedes, el mismo que levantó a Cristo de entre los muertos también dará vida a sus cuerpos mortales por medio de su Espíritu, que vive en ustedes.",
+    "citaBiblica": "Romanos 8:11"
+},
+{
+    "id": 78,
+    "textoDelVersiculo": "En fin, hermanos, alégrense, busquen su restauración, hagan caso de mi exhortación, sean de un mismo sentir, vivan en paz. Y el Dios de amor y de paz estará con ustedes.",
+    "citaBiblica": "2 Corintios 13:11"
+},
+{
+    "id": 79,
+    "textoDelVersiculo": "Una vez más Jesús se dirigió a la gente, y les dijo: —Yo soy la luz del mundo. El que me sigue no andará en tinieblas, sino que tendrá la luz de la vida.",
+    "citaBiblica": "Juan 8:12"
+},
+{
+    "id": 80,
+    "textoDelVersiculo": "Así dice el Señor al reino de Israel: «Búsquenme y vivirán.»",
+    "citaBiblica": "Amós 5:4"
+},
+{
+    "id": 81,
+    "textoDelVersiculo": "No se preocupen por su vida, qué comerán; ni por su cuerpo, con qué se vestirán. La vida tiene más valor que la comida, y el cuerpo más que la ropa.",
+    "citaBiblica": "Lucas 12:22b-23"
+},
+{
+    "id": 82,
+    "textoDelVersiculo": "Yo reprendo y disciplino a todos los que amo. Por lo tanto, sé fervoroso y arrepiéntete.",
+    "citaBiblica": "Apocalipsis 3:19"
+},
+{
+    "id": 83,
+    "textoDelVersiculo": "Porque lo dice el excelso y sublime, el que vive para siempre, cuyo nombre es santo: «Yo habito en un lugar santo y sublime, pero también con el contrito y humilde de espíritu, para reanimar el espíritu de los humildes y alentar el corazón de los quebrantados.»",
+    "citaBiblica": "Isaías 57:15"
+},
+{
+    "id": 84,
+    "textoDelVersiculo": "Sean ustedes santos, porque yo, el Señor, soy santo, y los he distinguido entre las demás naciones, para que sean míos.",
+    "citaBiblica": "Levítico 20:26"
+},
+{
+    "id": 85,
+    "textoDelVersiculo": "Del Señor es la tierra y todo cuanto hay en ella, el mundo y cuantos lo habitan.",
+    "citaBiblica": "Salmo 24:1"
+},
+{
+    "id": 86,
+    "textoDelVersiculo": "El Señor libra a sus siervos; no serán condenados los que en él confían.",
+    "citaBiblica": "Salmo 34:22"
+},
+{
+    "id": 87,
+    "textoDelVersiculo": "El fin de este asunto es que ya se ha escuchado todo. Teme, pues, a Dios y cumple sus mandamientos, porque esto es todo para el hombre.",
+    "citaBiblica": "Eclesiastés 12:13"
+},
+{
+    "id": 88,
+    "textoDelVersiculo": "Instrúyeme, Señor, en tu camino para conducirme con fidelidad. Dame integridad de corazón para temer tu nombre.",
+    "citaBiblica": "Salmo 86:11"
+},
+{
+    "id": 89,
+    "textoDelVersiculo": "Es verdad que ustedes pensaron hacerme mal, pero Dios transformó ese mal en bien para lograr lo que hoy estamos viendo: salvar la vida de mucha gente.",
+    "citaBiblica": "Génesis 50:20"
+},
+{
+    "id": 90,
+    "textoDelVersiculo": "Me siento presionado por dos posibilidades: deseo partir y estar con Cristo, que es muchísimo mejor, pero por el bien de ustedes es preferible que yo permanezca en este mundo.",
+    "citaBiblica": "Filipenses 1:23-24"
+},
+{
+    "id": 91,
+    "textoDelVersiculo": "Por medio de él todas las cosas fueron creadas; sin él, nada de lo creado llegó a existir.",
+    "citaBiblica": "Juan 1:3"
+},
+{
+    "id": 92,
+    "textoDelVersiculo": "Dichosos los que van por caminos perfectos, los que andan conforme a la ley del Señor.",
+    "citaBiblica": "Salmo 119:1"
+},
+{
+    "id": 93,
+    "textoDelVersiculo": "Por su propia voluntad nos hizo nacer mediante la palabra de verdad, para que fuéramos como los primeros y mejores frutos de su creación.",
+    "citaBiblica": "Santiago 1:18"
+},
+{
+    "id": 94,
+    "textoDelVersiculo": "Hemos llegado a tener parte con Cristo, con tal que retengamos firme hasta el fin la confianza que tuvimos al principio.",
+    "citaBiblica": "Hebreos 3:14"
+},
+{
+    "id": 95,
+    "textoDelVersiculo": "El amor de Cristo nos obliga, porque estamos convencidos de que uno murió por todos, y por consiguiente todos murieron. Y él murió por todos, para que los que viven ya no vivan para sí, sino para el que murió por ellos y fue resucitado.",
+    "citaBiblica": "2 Corintios 5:14-15"
+},
+{
+    "id": 96,
+    "textoDelVersiculo": "Por tanto, también nosotros, que estamos rodeados de una multitud tan grande de testigos, despojémonos del lastre que nos estorba, en especial del pecado que nos asedia, y corramos con perseverancia la carrera que tenemos por delante.",
+    "citaBiblica": "Hebreos 12:1"
+},
+{
+    "id": 97,
+    "textoDelVersiculo": "Porque el que quiera salvar su vida la perderá; pero el que pierda su vida por mi causa la salvará.",
+    "citaBiblica": "Lucas 9:24"
+},
+{
+    "id": 98,
+    "textoDelVersiculo": "Su divino poder, al darnos el conocimiento de aquel que nos llamó por su propia gloria y excelencia, nos ha concedido todas las cosas que necesitamos para vivir como Dios manda.",
+    "citaBiblica": "2 Pedro 1:3"
+},
+{
+    "id": 99,
+    "textoDelVersiculo": "El insolente no tiene el alma recta, pero el justo vivirá por su fe.",
+    "citaBiblica": "Habacuc 2:4"
+},
+{
+    "id": 100,
+    "textoDelVersiculo": "¡Anda, come tu pan con alegría! ¡Bebe tu vino con buen ánimo, que Dios ya se ha agradado de tus obras!",
+    "citaBiblica": "Eclesiastés 9:7"
+},
+{
+    "id": 101,
+    "textoDelVersiculo": "Más bien, sean ustedes santos en todo lo que hagan, como también es santo quien los llamó; pues está escrito: «Sean santos, porque yo soy santo».",
+    "citaBiblica": "1 Pedro 1:15-16"
+},
+{
+    "id": 102,
+    "textoDelVersiculo": "Mil años, para ti, son como el día de ayer, que ya pasó; son como unas cuantas horas de la noche.",
+    "citaBiblica": "Salmo 90:4"
+},
+{
+    "id": 103,
+    "textoDelVersiculo": "Produzcan frutos que demuestren arrepentimiento.",
+    "citaBiblica": "Mateo 3:8"
+},
+{
+    "id": 104,
+    "textoDelVersiculo": "El que salga vencedor se vestirá de blanco. Jamás borraré su nombre del libro de la vida, sino que reconoceré su nombre delante de mi Padre y delante de sus ángeles.",
+    "citaBiblica": "Apocalipsis 3:5"
+},
+{
+    "id": 105,
+    "textoDelVersiculo": "Sin embargo, considero que mi vida carece de valor para mí mismo, con tal de que termine mi carrera y lleve a cabo el servicio que me ha encomendado el Señor Jesús, que es el de dar testimonio del evangelio de la gracia de Dios.",
+    "citaBiblica": "Hechos 20:24"
+},
+{
+    "id": 106,
+    "textoDelVersiculo": "Pues aunque el ejercicio físico trae algún provecho, la piedad es útil para todo, ya que incluye una promesa no solo para la vida presente, sino también para la venidera.",
+    "citaBiblica": "1 Timoteo 4:8"
+},
+{
+    "id": 107,
+    "textoDelVersiculo": "Como bien saben, ustedes fueron rescatados de la vida absurda que heredaron de sus antepasados. El precio de su rescate no se pagó con cosas perecederas, como el oro o la plata, sino con la preciosa sangre de Cristo, como de un cordero sin mancha y sin defecto.",
+    "citaBiblica": "1 Pedro 1:18-19"
+},
+{
+    "id": 108,
+    "textoDelVersiculo": "¿Qué concluiremos? ¿Vamos a persistir en el pecado para que la gracia abunde? ¡De ninguna manera! Nosotros, que hemos muerto al pecado, ¿cómo podemos seguir viviendo en él?",
+    "citaBiblica": "Romanos 6:1-2"
+},
+{
+    "id": 109,
+    "textoDelVersiculo": "Así como me envió el Padre viviente, y yo vivo por el Padre, también el que come de mí vivirá por mí.",
+    "citaBiblica": "Juan 6:57"
+},
+{
+    "id": 110,
+    "textoDelVersiculo": "Porque ustedes antes eran oscuridad, pero ahora son luz en el Señor. Vivan como hijos de luz.",
+    "citaBiblica": "Efesios 5:8"
+},
+{
+    "id": 111,
+    "textoDelVersiculo": "Esto es lo que he comprobado: que en esta vida lo mejor es comer y beber, y disfrutar del fruto de nuestros afanes. Es lo que Dios nos ha concedido; es lo que nos ha tocado.",
+    "citaBiblica": "Eclesiastés 5:18"
+}
+  ]
